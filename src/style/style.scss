@@ -1,0 +1,31 @@
+$margins :  4% 20%;
+
+#formDiv {
+    margin: $margins;
+}
+
+#mainDiv {
+    margin: $margins;
+}
+
+.d-flex {
+    margin: 2% 20% 5%;
+}
+
+.itemsNav {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.d-flex:hover {
+    color: blueviolet;
+}
+
+.mainItem {
+    color: deepskyblue;
+}
+
+#cardCont {
+    background-color:skyblue;
+    border-radius:4% ;
+}
